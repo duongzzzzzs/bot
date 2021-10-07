@@ -1,0 +1,131 @@
+{
+    "language": "vi",
+    "keyActive": "",
+    "DeveloperMode": true,
+    "autoCreateDB": true,
+    "allowInbox": true,
+    "autoClean": false,
+    "commandDisabled": [
+        "Nopefix.js",
+        "goibot.js",
+        "ma.js",
+        "caro(new).js"
+    ],
+    "eventDisabled": [],
+    "EMAIL": "",
+    "PASSWORD": "",
+    "OTPKEY": "",
+    "BOTNAME": "BOT CuTe",
+    "PREFIX": "+",
+    "ADMINBOT": [
+        "100057149297920",
+        "100035641265672",
+        "100026614667251",
+        "100071648506397"
+    ],
+    "DATABASE": {
+        "sqlite": {
+            "storage": "data.sqlite"
+        }
+    },
+    "APPSTATEPATH": "appstate.json",
+    "FCAOption": {
+        "forceLogin": true,
+        "listenEvents": true,
+        "pauseLog": true,
+        "logLevel": "error",
+        "selfListen": true,
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36"
+    },
+    "version": "1.2.15",
+    "caesar": {
+        "caeserPassword": "266303"
+    },
+    "checktt": {
+        "maxColumn": 10
+    },
+    "daily": {
+        "cooldownTime": 43200000,
+        "rewardCoin": 200
+    },
+    "help": {
+        "autoUnsend": true,
+        "delayUnsend": 10
+    },
+    "math": {
+        "WOLFRAM": "T8J8YV-H265UQ762K"
+    },
+    "menu": {
+        "autoUnsend": true,
+        "delayUnsend": 60
+    },
+    "rankup": {
+        "autoUnsend": true,
+        "unsendMessageAfter": 5
+    },
+    "rname": {
+        "APIKEY": "mi451266190"
+    },
+    "sauce": {
+        "SAUCENAO_API": "61e802b1478f8e85198f28ed6ac2de6efe5d0a41"
+    },
+    "shortlink": {
+        "bitlyAPI": ""
+    },
+    "sim": {
+        "APIKEY": "http://developer.simsimi.leanhtruong.net/?text=chào&lc=vn"
+    },
+    "sing": {
+        "YOUTUBE_API": "AIzaSyC0hMd77I6dFANkzMieAj9ZMgRyla6K1Nc"
+    },
+    "sortword": {
+        "APIKEY": ""
+    },
+    "surprise": {
+        "log": true,
+        "out": "",
+        "kickAll": "",
+        "delThread": ""
+    },
+    "teach": {
+        "APIKEY": "MEWc3VuOTQzO3RoaWVubGUwOTA0QGdtYWlsLmN"
+    },
+    "video": {
+        "YOUTUBE_API": "AIzaSyC0hMd77I6dFANkzMieAj9ZMgRyla6K1Nc"
+    },
+    "weather": {
+        "OPEN_WEATHER": "081c82065cfee62cb7988ddf90914bdd"
+    },
+    "work": {
+        "cooldownTime": 1200000
+    },
+    "adminUpdate": {
+        "autoUnsend": true,
+        "sendNoti": true,
+        "timeToUnsend": 10
+    },
+    "log": {
+        "enable": true
+    },
+    "covid": {
+        "APIKEY": ""
+    },
+    "ghep": {
+        "cooldownTime": 300000
+    },
+    "hitbutt": {
+        "APIKEY": ""
+    },
+    "img": {
+        "APIKEY": ""
+    },
+    "linkword": {
+        "APIKEY": ""
+    },
+    "slap": {
+        "APIKEY": ""
+    },
+    "tiktok": {
+        "APIKEY": ""
+    }
+}

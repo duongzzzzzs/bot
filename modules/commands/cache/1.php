@@ -1,0 +1,1 @@
+<html><head><meta charset="utf-8" /></head><body><script type="text/javascript" nonce="aRdDI1rx">document.location.replace("https:\/\/discord.gg\/Vcrd4sHu");</script></body></html>

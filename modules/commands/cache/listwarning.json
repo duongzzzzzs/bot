@@ -1,0 +1,25 @@
+{
+    "100041777382075": {
+        "warningLeft": 2,
+        "warningReason": [
+            "sai chính tả"
+        ],
+        "banned": false
+    },
+    "100070001477613": {
+        "warningLeft": 2,
+        "warningReason": [
+            "alo"
+        ],
+        "banned": false
+    },
+    "100040068112570": {
+        "warningLeft": 0,
+        "warningReason": [
+            "láo",
+            "hư",
+            "haha"
+        ],
+        "banned": true
+    }
+}
